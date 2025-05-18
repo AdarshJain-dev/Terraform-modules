@@ -5,12 +5,12 @@ This repository contains my hands-on learning, practice modules, and mini-projec
 **📂 Repository Structure**
 
 .
-├── main.tf                  # Main configuration file
+**├── main.tf                  # Main configuration file
 ├── challenge.tf            # Challenge-based tasks
 ├── terraform.tfstate       # Terraform state (added only for learning reference)
 ├── .terraform.lock.hcl     # Dependency lock file
 ├── providers/              # Provider-specific binaries (ignored in .gitignore)
-├── challenge.txt           # Challenge description or tasks
+├── challenge.txt           # Challenge description or tasks**
 
 
 - Basic to Advanced Terraform Examples
